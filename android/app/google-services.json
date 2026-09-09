@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166606899027",
+    "project_id": "atmsteel-19619",
+    "storage_bucket": "atmsteel-19619.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166606899027:android:2f7c67f6848875f7f5c3a6",
+        "android_client_info": {
+          "package_name": "com.example.razan1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6sncXGV3sNFWJmOo_T4x_Rae8iUW-BtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
